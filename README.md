@@ -1,7 +1,7 @@
-﻿# ZERO-TRUST-cyber range SIMULATOR
+
 # Zero Trust Cyber-Range Simulator
 
-> An interactive, GUI-based Python application that simulates Zero Trust Architecture (ZTA) through real-time risk assessment, dynamic access control, and digital forensics artifact generation. Designed as a lightweight **Cyber Range as a Service (CRaaS)** environment for attack-defense training.
+An interactive, GUI-based Python application that simulates Zero Trust Architecture (ZTA) through real-time risk assessment, dynamic access control, and digital forensics artifact generation. Designed as a lightweight **Cyber Range as a Service (CRaaS)** environment for attack-defense training.
 
 ##  Overview
 Modern enterprise security has shifted from perimeter-based trust to continuous verification. This project operationalizes that shift by simulating an **attack-defense pipeline** where every access request is evaluated against contextual telemetry before enforcement. 
