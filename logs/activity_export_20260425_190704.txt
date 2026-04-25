@@ -1,0 +1,167 @@
+2026-04-23 13:52:27,528 | INFO | [Insider Threat] Score=49 | Action=Require MFA
+2026-04-23 13:52:29,177 | INFO | [Suspicious Device] Score=57 | Action=Require MFA
+2026-04-23 13:52:29,830 | INFO | [Suspicious Device] Score=57 | Action=Require MFA
+2026-04-23 13:52:30,050 | INFO | [Suspicious Device] Score=57 | Action=Require MFA
+2026-04-23 13:52:31,613 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 13:52:31,908 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 13:52:32,132 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 13:52:32,613 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 13:52:34,347 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 13:52:37,066 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 13:52:38,268 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 13:52:39,498 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 13:52:40,746 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 13:52:40,961 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 13:52:41,653 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 13:52:41,866 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 13:52:42,223 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 13:52:42,443 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 13:54:26,535 | INFO | [Insider Threat] Score=49 | Action=Require MFA
+2026-04-23 13:58:27,927 | INFO | [Insider Threat] Score=49 | Action=Require MFA
+2026-04-23 13:58:32,521 | INFO | [Suspicious Device] Score=57 | Action=Require MFA
+2026-04-23 13:58:34,249 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 13:58:34,423 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 13:58:34,644 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 13:58:35,928 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 13:58:36,096 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 13:58:36,264 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 13:58:36,416 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 13:58:36,641 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 13:58:37,797 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 13:58:37,950 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 13:58:38,110 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 13:58:38,332 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 13:58:39,220 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 13:58:39,372 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 13:58:39,488 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 13:58:39,617 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 13:58:39,832 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 13:58:40,732 | INFO | [Suspicious Device] Score=57 | Action=Require MFA
+2026-04-23 13:58:40,958 | INFO | [Suspicious Device] Score=57 | Action=Require MFA
+2026-04-23 13:58:42,378 | INFO | [Insider Threat] Score=49 | Action=Require MFA
+2026-04-23 13:58:42,503 | INFO | [Insider Threat] Score=49 | Action=Require MFA
+2026-04-23 13:58:42,719 | INFO | [Insider Threat] Score=49 | Action=Require MFA
+2026-04-23 14:04:50,558 | INFO | [Insider Threat] Score=49 | Action=Require MFA
+2026-04-23 14:04:52,630 | INFO | [Suspicious Device] Score=57 | Action=Require MFA
+2026-04-23 14:04:54,564 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 14:04:56,711 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 14:05:05,812 | INFO | Logs exported to logs/activity_export_20260423_140505.txt
+2026-04-23 16:19:49,760 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:19:49,891 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:19:50,095 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:19:50,282 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:19:50,436 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:19:50,616 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:19:50,771 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:19:50,952 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:19:51,161 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:19:51,380 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:19:52,459 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:19:52,686 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:19:53,045 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:19:53,239 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:19:53,421 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:19:53,638 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:19:53,854 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:19:54,056 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:19:54,253 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:19:54,461 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:19:54,712 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:19:54,930 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:35,295 | INFO | [Insider Threat] Score=49 | Action=Require MFA
+2026-04-23 16:25:35,463 | INFO | [Insider Threat] Score=49 | Action=Require MFA
+2026-04-23 16:25:35,693 | INFO | [Insider Threat] Score=49 | Action=Require MFA
+2026-04-23 16:25:36,175 | INFO | [Insider Threat] Score=49 | Action=Require MFA
+2026-04-23 16:25:36,369 | INFO | [Insider Threat] Score=49 | Action=Require MFA
+2026-04-23 16:25:36,598 | INFO | [Insider Threat] Score=49 | Action=Require MFA
+2026-04-23 16:25:37,569 | INFO | [Suspicious Device] Score=57 | Action=Require MFA
+2026-04-23 16:25:37,744 | INFO | [Suspicious Device] Score=57 | Action=Require MFA
+2026-04-23 16:25:37,897 | INFO | [Suspicious Device] Score=57 | Action=Require MFA
+2026-04-23 16:25:38,106 | INFO | [Suspicious Device] Score=57 | Action=Require MFA
+2026-04-23 16:25:38,294 | INFO | [Suspicious Device] Score=57 | Action=Require MFA
+2026-04-23 16:25:38,428 | INFO | [Suspicious Device] Score=57 | Action=Require MFA
+2026-04-23 16:25:38,654 | INFO | [Suspicious Device] Score=57 | Action=Require MFA
+2026-04-23 16:25:40,164 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:25:40,331 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:25:40,526 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:25:40,757 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:25:40,917 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:25:41,098 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:25:41,265 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:25:42,389 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:42,542 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:43,971 | INFO | [Insider Threat] Score=49 | Action=Require MFA
+2026-04-23 16:25:44,132 | INFO | [Insider Threat] Score=49 | Action=Require MFA
+2026-04-23 16:25:44,306 | INFO | [Insider Threat] Score=49 | Action=Require MFA
+2026-04-23 16:25:44,529 | INFO | [Insider Threat] Score=49 | Action=Require MFA
+2026-04-23 16:25:44,760 | INFO | [Insider Threat] Score=49 | Action=Require MFA
+2026-04-23 16:25:45,798 | INFO | [Suspicious Device] Score=57 | Action=Require MFA
+2026-04-23 16:25:45,980 | INFO | [Suspicious Device] Score=57 | Action=Require MFA
+2026-04-23 16:25:46,168 | INFO | [Suspicious Device] Score=57 | Action=Require MFA
+2026-04-23 16:25:46,395 | INFO | [Suspicious Device] Score=57 | Action=Require MFA
+2026-04-23 16:25:47,416 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:25:47,605 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:25:47,828 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:25:48,053 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:25:48,888 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:49,055 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:49,231 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:49,433 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:49,565 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:49,701 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:49,825 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:50,025 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:50,207 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:50,374 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:50,535 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:50,765 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:50,960 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:51,135 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:51,337 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:51,525 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:51,720 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:51,908 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:52,091 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:52,292 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:52,459 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:52,627 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:52,802 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:52,977 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:53,172 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:53,380 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:53,568 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:53,764 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:53,938 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:54,099 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:54,301 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:54,496 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:54,670 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:54,831 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:54,999 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:55,166 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:55,325 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:25:55,540 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:28:54,091 | INFO | [Insider Threat] Score=49 | Action=Require MFA
+2026-04-23 16:29:03,339 | INFO | [Suspicious Device] Score=57 | Action=Require MFA
+2026-04-23 16:50:04,308 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:50:06,474 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:50:06,627 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:50:06,780 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:50:07,003 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:54:15,850 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:54:16,031 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:54:16,219 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:54:16,408 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:54:16,630 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-23 16:54:19,370 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:54:19,672 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:54:19,854 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:54:20,073 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-23 16:54:23,285 | INFO | [Suspicious Device] Score=57 | Action=Require MFA
+2026-04-25 19:06:57,762 | INFO | [Insider Threat] Score=49 | Action=Require MFA
+2026-04-25 19:06:59,076 | INFO | [Suspicious Device] Score=57 | Action=Require MFA
+2026-04-25 19:06:59,307 | INFO | [Suspicious Device] Score=57 | Action=Require MFA
+2026-04-25 19:07:00,449 | INFO | [Bot Behavior] Score=61 | Action=Block
+2026-04-25 19:07:01,699 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-25 19:07:01,894 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
+2026-04-25 19:07:02,119 | INFO | [Sensitive Resource] Score=46 | Action=Require MFA
